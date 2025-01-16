@@ -1,1 +1,1 @@
-print("Wassup boy!! ")
+print("Wassup boy automatic!! ")
