@@ -1,1 +1,1 @@
-print("Wassup boy automatic!! ")
+print("Wassup boy automatic:1.0!! ")
